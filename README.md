@@ -7,6 +7,8 @@
 
 This project aims to create a deep learning model based on Convolutional Neural Networks (CNNs) and Residual Blocks to predict facial expressions or emotions. Facial expression classification is crucial for applications in emotional artificial intelligence, such as detecting customer responses to advertisements and driver monitoring systems.
 
+- Model accuracy:  0.7853
+
 ## Project Structure
 
 Facial Expression Classification Using Residual Neural Nets is divided into the following tasks:

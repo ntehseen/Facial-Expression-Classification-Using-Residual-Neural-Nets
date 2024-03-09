@@ -43,9 +43,18 @@ from sklearn.metrics import confusion_matrix, classification_report
 # Perform data visualization
 ...
 ```
+
+- Visualize the first image in the dataframe
+  
 ![Data](data_viz.png)
 
+
+- Plot barplot showing how many samples are present per emotion
+
+
 ![Data](data_viz2.png)
+
+
 
 ## Perform Data Augmentation
 
@@ -67,7 +76,12 @@ from sklearn.metrics import confusion_matrix, classification_report
 # Assess the performance of the trained model
 ...
 ```
-![Data](confusion_matx.png)confusion_matx.png
+![Data](confusion_matx.png)
+
+
+
+- Training and Validation loss
+
 ![Data](performance.png)
 
 ```
